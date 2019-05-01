@@ -1,0 +1,5 @@
+# ignore jekyll _site build directory
+_site
+
+# other jekyll related files
+.jekyll-metadata
