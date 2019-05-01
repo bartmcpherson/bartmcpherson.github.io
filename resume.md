@@ -1,7 +1,7 @@
 ---
 title: Resume
 ---
-
+[Home](index)
 # WORK HISTORY
 ## Sr. Web Architect – Cleveland State University
 #### (February 2017 – present)
@@ -83,10 +83,10 @@ title: Resume
 
 # EDUCATION
 ## B.A. Communications
-#### Cleveland State University - 2005
+**Cleveland State University** (2005)
 
 ## Master of Computer & Information Sciences in Information Systems
-#### Cleveland State University – Spring 2020
+**Cleveland State University** (Spring 2020)
 
 # SKILLS
 ## COMMUNICATION
