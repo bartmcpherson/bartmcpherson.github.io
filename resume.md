@@ -82,9 +82,11 @@ title: Resume
 - Helped to build on-line interface for processing EDI documents.
 
 # EDUCATION
-B.A. Communications, Cleveland State University – 2005
+## B.A. Communications
+#### Cleveland State University - 2005
 
-MCIS-IS, Cleveland State University – Spring 2020
+## Master of Computer & Information Sciences in Information Systems
+#### Cleveland State University – Spring 2020
 
 # SKILLS
 ## COMMUNICATION
