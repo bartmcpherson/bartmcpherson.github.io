@@ -2,9 +2,25 @@
 title: Resume
 ---
 [Home](index)
+
 # WORK HISTORY
+
+## Manager, Enterprise Application Development - Cleveland State University
+
+### (September 2019 - present)
+
+-Lead a team of 10 developers to manage the analysis, design, and development of software across multiple verticals within the university.
+-Interface with university stakeholders and external partners.
+-Establish strategic plans and goals that support the mission of the department and university.
+-Coordinate efforts in planning, developing, testing, and implementing of software systems.
+-Coach and motivate multiple teams in the application of agile development methods.
+-Lead continuous improvement efforts by developing actionable plans from retrospectives and after-action reports.
+-Maintain legacy systems while delivering new software and integrations.
+-Obtain, schedule, and release the needed resources to complete projects.
+
 ## Sr. Web Architect – Cleveland State University
-#### (February 2017 – present)
+
+### (February 2017 – September 2019)
 
 - Responsible for technical architecture, design, implementation, and maintenance of web platform solutions for university websites and mobile applications.
 - Increase team productivity through introduction and mentoring of agile development techniques.
@@ -16,7 +32,8 @@ title: Resume
   - Agile methodologies
 
 ## Sr. Integration Engineer – Cleveland State University
-#### (October 2015 – February 2017)
+
+### (October 2015 – February 2017)
 
 - Maintain and enhance a Java web application that integrates with PeopleSoft.
 - Design and develop a PHP and Python web application to allow students to view instructor and course review data.
@@ -24,7 +41,8 @@ title: Resume
 - Provide implementation, training, and support of new source control practices using Git.
 
 ## Java Technical Supervisor – BDI
-#### (February 2015 – October 2015)
+
+### (February 2015 – October 2015)
 
 - Build and manage a team of Java developers to maintain and enhance enterprise web applications.
 - Migrated the support and development of multiple applications from outside contractors to an internal team for long-term cost savings for the company.
@@ -34,7 +52,8 @@ title: Resume
 - Create and maintain Java, SQL, HTML, JavaScript and CSS code that is easily maintainable so future changes are easy to implement.
 
 ## Sr. Engineer/ Application Architect – MRI Software
-#### (2014 – 2015)
+
+### (2014 – 2015)
 
 - Lead an agile team to develop and maintain an enterprise level web application.
 - Ensure the release of quality products by creating an agile branching strategy and quantifiable release process. Having an established set of requirements and processes for release helps reduce unexpected problems after application deployment.
@@ -45,7 +64,8 @@ title: Resume
 - Create SQL queries to troubleshoot and report application performance metrics.
 
 ## Sr. Web Applications Developer – Cleveland State University
-#### (2007 – 2014)
+
+### (2007 – 2014)
 
 - Identified, initiated, lead and implemented projects to support University-wide initiatives.  Providing leadership in high-visibility projects, and ensuring delivery on time and on budget.
 - Collaborated with multiple stakeholders of varying technical knowledge to implement successful projects.  Being able to not use jargon and explain complex topics using the customer’s own language reduces the customer’s anxiety.
