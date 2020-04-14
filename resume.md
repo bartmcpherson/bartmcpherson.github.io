@@ -9,14 +9,14 @@ title: Resume
 
 ### (September 2019 - present)
 
--Lead a team of 10 developers to manage the analysis, design, and development of software across multiple verticals within the university.
--Interface with university stakeholders and external partners.
--Establish strategic plans and goals that support the mission of the department and university.
--Coordinate efforts in planning, developing, testing, and implementing of software systems.
--Coach and motivate multiple teams in the application of agile development methods.
--Lead continuous improvement efforts by developing actionable plans from retrospectives and after-action reports.
--Maintain legacy systems while delivering new software and integrations.
--Obtain, schedule, and release the needed resources to complete projects.
+- Lead a team of 10 developers to manage the analysis, design, and development of software across multiple verticals within the university.
+- Interface with university stakeholders and external partners.
+- Establish strategic plans and goals that support the mission of the department and university.
+- Coordinate efforts in planning, developing, testing, and implementing of software systems.
+- Coach and motivate multiple teams in the application of agile development methods.
+- Lead continuous improvement efforts by developing actionable plans from retrospectives and after-action reports.
+- Maintain legacy systems while delivering new software and integrations.
+- Obtain, schedule, and release the needed resources to complete projects.
 
 ## Sr. Web Architect – Cleveland State University
 
