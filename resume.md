@@ -105,8 +105,8 @@ title: Resume
 ## B.A. Communications
 **Cleveland State University** (2005)
 
-## Master of Computer & Information Sciences in Information Systems
-**Cleveland State University** (Spring 2020)
+## Master of Computer & Information Sciences
+**Cleveland State University** (2020)
 
 # SKILLS
 ## COMMUNICATION
@@ -122,6 +122,7 @@ Linux, Microsoft Windows, and OS X.
 Ant, Apache, Balsamiq, Confluence, Drupal (7 & 8), Eclipse, git, Illustrator, Jira, lando, Microsoft Office, Maven, MS Project, MS-SQL, MySQL, Net Beans, Oracle, Photoshop, Tomcat, TFS, Trello, Visio, VS Code, WebLogic, and X Code (including Interface Builder).
 
 ## CERTIFICATIONS
+- PMI Agile Certified Practitioner - PMI-ACP
 - Project Management Institute – PMP
 - Oracle Certified Professional – MySQL 5 Developer
 
